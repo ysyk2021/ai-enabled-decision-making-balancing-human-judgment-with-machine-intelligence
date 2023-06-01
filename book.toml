@@ -1,0 +1,6 @@
+[book]
+authors = ["ysykzheng"]
+language = "en"
+multilingual = false
+src = "src"
+title = "AI-Enabled Decision-Making: Balancing Human Judgment with Machine Intelligence"
