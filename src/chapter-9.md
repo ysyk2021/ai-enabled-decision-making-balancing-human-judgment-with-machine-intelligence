@@ -1,5 +1,3 @@
-Chapter 9: Future Trends and Opportunities for AI-Enabled Decision-Making
-=========================================================================
 
 AI-enabled decision-making is a rapidly evolving field that presents new opportunities for organizations to make better decisions faster and more efficiently. This chapter will explore some of the emerging trends in AI for decision-making and strategy development, as well as ways in which AI can unlock new opportunities for decision-making.
 

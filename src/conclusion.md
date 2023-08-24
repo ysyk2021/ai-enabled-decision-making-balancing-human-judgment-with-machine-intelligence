@@ -1,4 +1,3 @@
-# Conclusion
 
 Artificial Intelligence (AI) is transforming the way we make decisions. In this book, we explored various AI-enabled decision-making tools and techniques that can be used to improve our decision-making processes.
 

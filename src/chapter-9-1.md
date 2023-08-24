@@ -1,5 +1,3 @@
-Emerging Trends in AI for Decision-Making and Strategy Development
-=============================================================================================================================================
 
 AI-enabled decision-making is a rapidly evolving field, with new trends and opportunities emerging all the time. This chapter will explore some of the emerging trends in AI for decision-making and strategy development.
 

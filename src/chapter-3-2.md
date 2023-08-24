@@ -1,5 +1,3 @@
-Predictive Analytics and Forecasting for Decision Support
-=====================================================================================================================
 
 Artificial Intelligence (AI) can be used to collect and analyze large amounts of data, providing insights that inform decision-making. In this chapter, we will explore how AI can be implemented in data collection and analysis for predictive analytics and forecasting.
 

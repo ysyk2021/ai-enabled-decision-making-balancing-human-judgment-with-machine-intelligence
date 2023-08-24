@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Enabled Decision-Making
-================================================================
 
 Artificial Intelligence (AI) is transforming the way we make decisions. In this chapter, we will explore some of the tools and technologies that enable AI-enabled decision-making.
 

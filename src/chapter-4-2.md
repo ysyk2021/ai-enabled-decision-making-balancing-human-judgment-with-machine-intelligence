@@ -1,5 +1,3 @@
-Automated Risk Mitigation Recommendations using AI
-===============================================================================================================
 
 AI can play a critical role in enhancing risk assessment and management. By analyzing large amounts of data, AI can identify potential risks and provide recommendations for risk mitigation. This chapter will explore how AI can automate risk mitigation recommendations to improve decision-making and reduce risk.
 

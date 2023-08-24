@@ -1,5 +1,3 @@
-Chapter 7: Balancing Human Judgment with Machine Intelligence
-=============================================================
 
 While AI can provide valuable insights and recommendations for decision-making processes, it's important to remember that human judgment is still critical. This chapter will explore the importance of balancing human judgment with machine intelligence in AI-enabled decision-making and methods for combining human and machine intelligence.
 

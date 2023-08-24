@@ -1,5 +1,3 @@
-Importance of Ethical and Unbiased Decision-Making Practices
-===============================================================================================================================
 
 As Artificial Intelligence (AI) becomes more prevalent in decision-making processes, it's important to consider the ethical implications and potential biases that may arise. In this chapter, we will explore the importance of ethical and unbiased decision-making practices in AI-enabled decision-making.
 

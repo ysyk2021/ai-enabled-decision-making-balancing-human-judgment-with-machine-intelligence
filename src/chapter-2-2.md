@@ -1,5 +1,3 @@
-Selecting the Right Tools for Your Decision-Making Needs
-==========================================================================================================================
 
 Selecting the right tools and technologies is critical for successful AI-enabled decision-making. This chapter will explore the various tools and technologies available for AI-enabled decision-making and provide guidance on selecting the right tools for your decision-making needs.
 

@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-===========================================================================================================
 
 AI-enabled decision-making presents new opportunities for organizations to make better decisions faster and more efficiently. However, it also poses ethical and bias risks that need to be managed to ensure compliance. This chapter will explore strategies for managing ethics and bias in AI-enabled decision-making.
 

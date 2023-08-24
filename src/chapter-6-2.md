@@ -1,5 +1,3 @@
-Automated Decision-Making Assistance using AI
-========================================================================================================
 
 Artificial Intelligence (AI) can be used to automate routine tasks and provide decision-making assistance, streamlining decision-making processes. In this chapter, we will explore the benefits of automated decision-making assistance using AI.
 

@@ -1,5 +1,3 @@
-Unlocking New Opportunities with AI
-==============================================================================================================
 
 AI-enabled decision-making is an ever-evolving field that presents new opportunities for organizations to make better decisions faster and more efficiently. This chapter will explore some of the ways in which AI can unlock new opportunities for decision-making.
 
